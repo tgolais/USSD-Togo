@@ -4,22 +4,56 @@ J'essayerai de le mettre a jour le plus souvent que possible.
 
 ## Moov Togo ( Atlantique Telecom Togo )
 [Site Officiel](https://www.moov.tg)
-### Services d'infortion
-[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+_avril 05, 2017_ Credit [emilasic](http://emilasic.blogspot.com/2017/04/les-codes-ussid-de-et-moov-togo-togocel.html)
+
+- `*101#` Consulter son credit
+
+- `*102#` Ce code vous permet de transférer le crédit de communication de votre numéro moov vers un notre numéro moov.
+ *Avant le premier transfert, faites  `*102*0000*nouveau code de transfert#` ceci permet de changer votre code de transfert par defaut
+ * pour transférer : `*102*crédit*numéro*code#`
+
+- `*106#` Avec Moov, vous avez la possibilité de changer votre plan tarifaire.
+
+- `*107#` Moov complice! Choisissez 5 numéros que vous appelez régulièrement. le coût d'appel vers ces numéros est vraiment très réduit.
+ [x] ajouter un numéro: `*107*1*numéro#`
+ [x] Pour supprimer un numéro : `*107*0*numéro#`
+
+- `*108#` Moovbip. Sans crédit de communication, vous pouvez laisser un SMS à votre correspondant lui demandant de vous rappeler.
+il suffit de taper `*108*numéro#`
+
+-`*109#` Si vous devez acheter du credit à un ami ou autre un proches à distance, il suffit de taper `*109* code crédit*numéro#` et le compte à distance est chargé.
+
+7. *100*1*1#
+Pour connaître votre propre numéro de téléphone Moov, tapez *100*1*1# et vous aurez également le profil de votre numéro.
+
+8. *100*2#
+Ce code vous affiche les codes que vous devez tapez pour effectuer une migration de profil.
+
+
+9.*100*3#
+Tapez ce code si vous voulez activer ou désactiver un service de Moov tels que moovtones, Soscredit, Moovkiosque, moovScoop.
+
+10. *100*4#
+Envie d'être au courant des promo et événements de Moov, tapez de temps en temps *100*4#.
+
+
+11.  *100*5#
+Trouvez une agence Moov en tapant ce code.
+
+
+12. *100*8#
+Trouvez d'autres codes utiles en tapant *100*8#.
 
 
 ## Togocel ( TogoCom )
 [Site Officiel](https://www.togocel.tg)
-_avril 05, 2017_
-Credit [emilasic](http://emilasic.blogspot.com/2017/04/les-codes-ussid-de-et-moov-togo-togocel.html)
 
-1.   *444# 
- Tout utilisateur Togocel le connait, le connait ici au Togo. Après chaque appel émis, il le tape pour connaitre leur solde.
+_avril 05, 2017_ Credit [emilasic](http://emilasic.blogspot.com/2017/04/les-codes-ussid-de-et-moov-togo-togocel.html)
 
-2. *555#
+- `*444#` Connaitre la solde de son credit de communication.
 
-Il vous arrive parfois d'oublier votre propre numéro de téléphone Togocel, alors tapez *555# pour voir votre numéro. c'est très simple.
-(Pour connaître votre propre numéro de téléphone).
+- `*555#` Afficher son numero Togocel
 
 3. `*104*1#`
 
@@ -71,8 +105,6 @@ Ce code vous permet d'accéder à un menu promo des forfait de togocel. Essayer,
 
 *919*10#
 Vous aimez surfer les nuit? Tapez *919*10# pour activer votre forfait Data nuit.
-
-
 
 7. *445#
 Pour vos pannes de crédit ou de Data , plus de soucis, Togocel le leader a la solutions. Il suffit de taper *445# pour bénéficier des prêts pour vous même et pour vos proches.
